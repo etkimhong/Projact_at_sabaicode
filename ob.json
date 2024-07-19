@@ -1,0 +1,55 @@
+{
+    "product": [
+      { 
+        "id": "1", 
+        "img":"https://www.doctorsbest.com/cdn/shop/files/8_8b51b7cb-dbf4-43ed-900c-ff40141a4ae8.jpg?v=1719417592&width=533" , 
+        "title": "Doctor's Best", 
+        "Dic": 50 ,
+        "price": 70
+      },
+      { 
+        "id": "2", 
+        "img":"https://drnaturewellness.com/Upload/Product/original/DNW00301.jpg" , 
+        "title": "Doctor Nature Wellness", 
+        "Dic": 230 ,
+        "price": 700},
+      { 
+        "id": "3",
+        "img":"https://products.drbatras.com/cdn/shop/products/conditioner-dr-batras-662257_1200x.jpg?v=1701180760" , 
+        "title": "Products – Dr Batra's", 
+        "Dic": 54 ,
+        "price": 80},
+      { 
+        "id": "4",
+         "img":"https://doctorhoys.com/cdn/shop/files/Main---Pain-Relief_6oz.jpg?v=1718378659&width=300" , 
+         "title": "Doctor Hoy's Natural ", 
+         "Dic": 80 ,
+         "price": 120},
+      { 
+        "id": "5", 
+        "img":"https://alkaitis.com/cdn/shop/files/alkaitis_product_facial-elixir_01_1200x.jpg?v=1719849306" , 
+        "title": "Raw Holistic Organic Skin Care", 
+        "Dic": 66 ,
+        "price": 70},
+      { 
+        "id": "6", 
+        "img":"https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/A/K/181843_1662056260.jpg" , 
+        "title": "Skin Doctor Carrot Glow Face ", 
+        "Dic": 30 ,
+        "price": 70},
+      { 
+        "id": "7", 
+        "img":"https://dryeyerescue.com/cdn/shop/products/hydroeye-supplement-cir-b-987363.png?v=1682437447&width=1200" , 
+        "title": "Dry Eye Rescue", 
+        "Dic": 90 ,
+        "price": 170},
+      { 
+        "id": "8",
+        "img":"https://shopdfa.com/wp-content/uploads/2023/09/1.png" , 
+        "title": "DFA Clinic – Beauty Is Science", 
+        "Dic": 99 ,"price": 120}
+    ],
+    "Cart":[
+      
+    ]
+  }

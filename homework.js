@@ -59,19 +59,20 @@
 //homework 6
 
 // let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-// let oddCount = 0;
-// let evenCount = 0;
+let oddCount = 0;
+let evenCount = 0;
 
-// for (let i = 0; i < numbers.length; i++) {
-//     if (numbers[i] % 2 === 0) {
-//         evenCount++;
-//     } else {
-//         oddCount++;
-//     }
-// }
+for (let i = 0; i < 10; i++) {
 
-// console.log("old number :"+evenCount);
-// console.log("even number:"+oddCount);
+    if (i % 2 == 0) {
+        evenCount++;
+    } else {
+        oddCount++;
+    }
+}
+
+console.log("old number :"+evenCount);
+console.log("even number:"+oddCount);
 
 //homework 7
 
@@ -89,12 +90,9 @@
 
 //homework 8
 
-// let numbers = [1, 2, 3, 4, 5];
 // let sum = 0;
-
-// for (let i = 0; i < numbers.length; i++) {
-//     sum++;
-//     sum += numbers[i];
+// for (let i = 0; i <5; i++) {
+//     sum=sum + i;
 // }
 
 // console.log(`Sum: ${sum}`);
